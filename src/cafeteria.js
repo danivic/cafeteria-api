@@ -5,15 +5,15 @@ const Cafeteria = [
     },
     {
         id: "77095690-3195-4e8d-aff3-52cd0a83737b",
-        name: "Pão Queijo"
+        name: "Pão de Queijo"
     },
     {
         id: "2252ce16-a39c-4b84-9955-2767ebf34da0",
-        "name": "Chocolate de Quente"
+        "name": "Chocolate Quente"
     },
     {
         id: "a8983a29-464c-41ce-941a-0ed8a0a6dba7",
-        name: "Misto de Quente"
+        name: "Misto Quente"
     },
     {
         id: "31f597ae-d37d-4e30-9276-b2482cf77cb3",
